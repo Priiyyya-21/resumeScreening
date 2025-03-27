@@ -1,0 +1,7 @@
+flask
+streamlit
+spacy
+sqlite3
+pandas
+python-docx
+pdfplumber
