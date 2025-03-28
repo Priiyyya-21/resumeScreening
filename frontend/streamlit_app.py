@@ -41,8 +41,3 @@ if st.button("Show Ranked Candidates"):
 
     st.write("### Ranked Candidates")
     st.dataframe(df)
-
-
-# import spacy
-# nlp=spacy.load("en_core_web_sm")
-# print(nlp("This is a test").vector)
